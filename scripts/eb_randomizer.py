@@ -29,7 +29,7 @@ SWAP_MAX_HP_RATIO = 40.0
 SWAP_SCALE_STATS = True
 SWAP_EXTRA_TYPES = 0
 
-DATABASE_PATH = Path("FF9_Database_Propre.json")
+DATABASE_PATH = Path("data/FF9_Database_Propre.json")
 FALLBACK_BOSS_IDS = {138, 150, 166, 168}
 SEED = None
 
