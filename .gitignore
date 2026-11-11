@@ -1,4 +1,20 @@
+# Cache système Python
 __pycache__/
-*.csv
-*.log
-.venv/
+*.pyc
+*.pyo
+
+# Fichiers de log et rapports générés
+swap_log.json
+
+# Dossier du mod final généré
+RandomizerTest/
+
+# Dossiers contenant les exports bruts du jeu
+fieldsScript/
+Exported_Scripts/
+StreamingAssets/
+FF9_Data/
+
+# Archives Unity et binaires du jeu
+*.bin
+*.bytes
